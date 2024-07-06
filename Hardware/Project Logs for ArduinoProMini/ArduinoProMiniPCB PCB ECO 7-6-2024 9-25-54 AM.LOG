@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=RAW Pin=J4-1
+Removed Member From Class: ClassName=ArduinoProMiniSchematic2 Member=R15
+Removed Member From Class: ClassName=ArduinoProMiniSchematic2 Member=R20
+Removed Member From Class: ClassName=ArduinoProMiniSchematic2 Member=S6
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R19-2
+Change Net Name : Old Net Name=RAW New Net Name=RAW1
+Added Net: Name=RAW
+Add Net: Net with name "RAW" already exists
+Add Class Member: Failed to add class member : Component R1 (R7) 10kR
+Add Class Member: Failed to add class member : Component R2 (R8) 10kR
+Add Class Member: Failed to add class member : Component R3 (R9) 5kR
+Add Class Member: Failed to add class member : Component R4 (R10) 10kR
+Add Class Member: Failed to add class member : Component R5 (R11) 10kR
+Add Class Member: Failed to add class member : Component R6 (R12) 1kR
+Add Class Member: Failed to add class member : Component R7 (R13) 10kR
+Add Class Member: Failed to add class member : Component R8 (R14) 10kR
+Add Class Member: Failed to add class member : Component R9 (R15) 10kR
+Add Class Member: Failed to add class member : Component R10 (R16) 10kR
+Add Class Member: Failed to add class member : Component R11 (R17) 10kR
+Add Class Member: Failed to add class member : Component R12 (R18) 10kR
+Add Class Member: Failed to add class member : Component R13 (R19) 10kR
+Add Class Member: Failed to add class member : Component R14 (R20) 10kR
+Added Member To Class: ClassName=ArduinoProMiniSchematic2 Member=Component S1 (S2) 1825910-6
